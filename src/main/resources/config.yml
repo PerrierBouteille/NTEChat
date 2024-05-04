@@ -1,0 +1,7 @@
+# Parameters :
+# %prefix% for prefix
+# %suffix% for suffix
+# %player% for player name
+# %message% for message
+
+chatformat: "%prefix% %player% %suffix% &8: &f%message"

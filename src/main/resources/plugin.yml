@@ -1,0 +1,6 @@
+name: NametagEditChat
+main: fr.perrier.ntechat.Main
+version: ${project.version}
+api-version: 1.13
+authors: [PerrierBottle]
+depend: [NametagEdit]
